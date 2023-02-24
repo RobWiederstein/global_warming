@@ -59,5 +59,5 @@ df1 |>
         x = "",
         y = "Temperature in Units",
         caption = "Source: Some Source."
-    )
+    ) +
     geom_smooth()
